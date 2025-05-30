@@ -18,6 +18,11 @@ test('get started link', async ({ page }) => {
 });
 
 test('ss', async ({page}) =>{
-    await page.goto('https://playwright.dev/');
+    await page.goto('https://playwright.dev/');    
 
-})
+});
+
+test('ss1', async ({page}) =>{
+    await page.goto('https://playwright.dev/');    
+
+});
